@@ -1,0 +1,7 @@
+mysql-connector-python
+SQLAlchemy
+streamlit
+langchain
+langchain_community
+langchain_groq
+dotenv
